@@ -1,0 +1,27 @@
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.exe
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.deps.json
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.runtimeconfig.json
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.runtimeconfig.dev.json
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.dll
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.pdb
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.csprojAssemblyReference.cache
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.AssemblyInfoInputs.cache
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.AssemblyInfo.cs
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.dll
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.pdb
+C:\Users\Görkem\Desktop\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.genruntimeconfig.cache
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.exe
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.deps.json
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.runtimeconfig.json
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.runtimeconfig.dev.json
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.dll
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\bin\Debug\netcoreapp3.1\ödev3.1.pdb
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.csproj.AssemblyReference.cache
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.AssemblyInfoInputs.cache
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.AssemblyInfo.cs
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.dll
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.pdb
+C:\Users\Görkem\Desktop\MGT -CBÜ DÖNEM 5\YAZILIM SINAMA\Murat Görkem Taşlaroğlu -192805007-YZM 2-Ö.-YAZILIM SINAMA ÖDEVLER\ödev3 dosya\ödev3.1\ödev3.1\obj\Debug\netcoreapp3.1\ödev3.1.genruntimeconfig.cache
