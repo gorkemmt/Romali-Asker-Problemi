@@ -11,9 +11,11 @@
 - Girilen asker sayısına göre bir dizi oluşturup askerlerin hayatta olma durumlarını orada tuttuk. Bu işlemden sonra son iki asker hayatta kalana kadar çalışacak bir döngü oluşturduk ve bu döngü içerisinde girilmiş olan sayma sayısına göre hayatta olan askerler arasında ilerleyip sırası gelen askerlerin yaşam durumunu dizi içerisinde 0 olarak değiştirdik. Son iki asker kaldığı zaman döngüden çıkmasını ve kalan askerlerin sıra numaralarını ekrana yazdırmasını sağladık.
 
 # Çalıma Örnek Gösterimi:
+![romalı asker](https://user-images.githubusercontent.com/84309668/183265717-06df6eb7-8bd2-45da-9c66-798938b36f3e.png)
 
 
 # Örnek Test Case Tablosu:
+![test case](https://user-images.githubusercontent.com/84309668/183265718-0f063853-5d53-422f-bb77-1d108486512b.PNG)
 
 
 
